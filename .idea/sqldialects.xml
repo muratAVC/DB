@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$/Queries/Demo.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/src/test/java/Qeries/SQLTask1.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/src/test/java/Qeries/SQLTask2.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Qeries/SQLTask3.sql" dialect="Oracle" />
     <file url="file://$PROJECT_DIR$/src/test/java/Qeries/query.sql" dialect="Oracle" />
   </component>
 </project>
